@@ -1,3 +1,5 @@
 streamlit
 markdown
 weasyprint
+fenced_code
+codehilite
