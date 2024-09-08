@@ -1,3 +1,5 @@
+![GPT to PDF](images/appbanner.png)
+
 # Simple GPT (Output) TO PDF Text Conversion Utility
 
 The outcome of a quick experiment to see if I could succeed in getting ChatGPT to generatea a (very basic) Linux GUI using nothing but a few natural language instructions.
