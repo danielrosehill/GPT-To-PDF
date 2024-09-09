@@ -4,6 +4,8 @@ This is an example prompt & prompt output for testing & debugging.
 
 Chosen in part because it has codeblocks denoted with backticks
 
+---
+
 ## Example Summary / File Name
 
 GUIs for packaging Python on Fedora?
