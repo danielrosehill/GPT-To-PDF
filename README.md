@@ -6,7 +6,7 @@ The outcome of a quick experiment to see if I could succeed in getting ChatGPT t
 
 ## Desktop Utilty (Tested: Fedora Linux)
 
-![alt text](screenshots/1/3.jpg)
+![V2, Fedora UI](screenshots/2/fedoraui.png)
 
 See:
 
