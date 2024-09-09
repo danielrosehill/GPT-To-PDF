@@ -126,7 +126,7 @@ image_path = os.path.join(script_dir, "appbanner.png")
 
 # Load and resize the image to 400px wide while maintaining the aspect ratio
 image = Image.open(image_path)
-image.thumbnail((400, 400))  # Resize the image to 400px width while keeping the aspect ratio
+image.thumbnail((600, 600))  # Resize the image to 400px width while keeping the aspect ratio
 photo = ImageTk.PhotoImage(image)
 image_label = tk.Label(app, image=photo)
 image_label.pack(pady=10)
