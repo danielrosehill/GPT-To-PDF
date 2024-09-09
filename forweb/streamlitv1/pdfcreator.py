@@ -1,7 +1,6 @@
 import streamlit as st
 from datetime import datetime
 import markdown
-from markdown.extensions import fenced_code, codehilite
 from weasyprint import HTML
 from io import BytesIO
 import time
